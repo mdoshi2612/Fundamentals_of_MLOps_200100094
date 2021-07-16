@@ -6,11 +6,14 @@ Ans:
 - AIOps (term invented by Gartner)
   - AIOps is the application of artificial intelligence to IT operations. It has become essential for monitoring and managing modern IT environments that are hybrid, dynamic, distributed and componentized. Through algorithmic analysis of IT data, AIOps helps IT Ops and DevOps teams work smarter and faster, so they can detect digital-service issues earlier and resolve them quickly, before business operations and customers are impacted.
 
-  - It has 2 components :- 
-    - Big data
-    - ML
-  - It aggregates observational data (such as job logs and monitoring systems) alongside engagement data inside a big data platform.
-  - It then implements a comprehensive and Ml strategy againsed the data. The desired outcomes yield contiuous improvements and fixes.
+  - Systems
+      At the core is the complexity of systems that are modular, distributed and dynamic, and whose components are ephemeral.
+
+  - Data
+      The second layer is the data these systems generate about their internal operations — logs, metrics, traces, event records and more. This data is complex because of its high volume, specificity, variety, redundancy.
+
+  - Tools
+      The third outer layer is the complexity of the tools used to monitor and manage the data, and the systems. There are more and more tools, with increasingly narrow functionality, that don’t always interoperate, and thus create operational and data silos.
 
   <img src = "AIOps.png">
 
