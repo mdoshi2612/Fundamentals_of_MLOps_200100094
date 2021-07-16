@@ -4,16 +4,15 @@
 
 Ans: 
 - AIOps (term invented by Gartner)
-  - AIOps is short for artificial intelligence for IT operations. It refers to multi-layered technology platforms 
- that automate and enhance IT operations through analytics and machine learning (ML). AIOps platforms leverage big data,
- collecting variety of data from various IT operations tools and devices in order to automatically spot and react to issues 
- in real-time while still providing traditional historical analytics.
+  - AIOps is the application of artificial intelligence to IT operations. It has become essential for monitoring and managing modern IT environments that are hybrid, dynamic, distributed and componentized. Through algorithmic analysis of IT data, AIOps helps IT Ops and DevOps teams work smarter and faster, so they can detect digital-service issues earlier and resolve them quickly, before business operations and customers are impacted.
 
   - It has 2 components :- 
     - Big data
     - ML
   - It aggregates observational data (such as job logs and monitoring systems) alongside engagement data inside a big data platform.
   - It then implements a comprehensive and Ml strategy againsed the data. The desired outcomes yield contiuous improvements and fixes.
+
+  <img src = "AIOps.png">
 
 - AIOps vs MLOps
   - Although the aim for both of them is two make our systems better we cannot mistakenly consider them to be similar as they are 
