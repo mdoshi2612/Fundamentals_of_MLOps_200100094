@@ -6,6 +6,8 @@ Ans:
 - AIOps (term invented by Gartner)
   - AIOps is the application of artificial intelligence to IT operations. It has become essential for monitoring and managing modern IT environments that are hybrid, dynamic, distributed and componentized. Through algorithmic analysis of IT data, AIOps helps IT Ops and DevOps teams work smarter and faster, so they can detect digital-service issues earlier and resolve them quickly, before business operations and customers are impacted.
 
+  The complexity of managing the operations of modern IT environments exists at three levels:<br>
+
   - Systems
       - At the core is the complexity of systems that are modular, distributed and dynamic, and whose components are ephemeral.
 
