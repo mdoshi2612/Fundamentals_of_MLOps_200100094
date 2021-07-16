@@ -40,3 +40,7 @@ Ans: When we say that a linear regression model is interpretable we mean that if
 
 
 <hr>
+
+# Problem 2
+
+<img src = "AWS_Console.png">
