@@ -75,11 +75,11 @@ git push origin expt2_rf
 
 ## Values
  - Decision tree Classifier :
-   - F1 Score - 0.8070175439 
-   - Accuracy - 0.9994206562
+   - F1 Score - 0.7976878613 
+   - Accuracy - 0.9993855445
  - Random Forest Classifier:
-   - F1 Score - 0.83333
-   - Accuracy - 0.9995084
+   - F1 Score - 0.8275862069
+   - Accuracy - 0.9994733239
 
 
 ## Screenshots Of S3 Bucket
