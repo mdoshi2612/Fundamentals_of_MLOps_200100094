@@ -83,5 +83,5 @@ git push origin expt2_rf
 
 
 ## Screenshots Of S3 Bucket
-![image](https://user-images.githubusercontent.com/73156496/125743617-b14d72bf-29d3-48b4-9a68-015454947ed5.png)
-![image](https://user-images.githubusercontent.com/73156496/125743643-bf752850-1ce2-446e-98cf-af6ae7ff9cbf.png)
+![image](https://github.com/mdoshi2612/Fundamentals_of_MLOps_200100094/blob/main/Week2/2021-07-21.png)
+![image](https://github.com/mdoshi2612/Fundamentals_of_MLOps_200100094/blob/main/Week2/2021-07-21%20(2).png)
